@@ -1,6 +1,6 @@
 ---
 author: fsofronia
-title: Shells-Linux
+title: shells-Linux
 image_url: /images/shell.jpg
 caption: 'The shell is the command interpretor in an operating system, it is a program that executes other programs. 
 It provides a computer user an interface to the Unix/GNU Linux system so that the user can run different commands or utilities/tools
@@ -18,4 +18,8 @@ tags:
   - CommandLineInterface
   - GUI
   - Tcsh
+  - Bash
+  - Zsh
+  - Ksh
+  - Fish
 ---
