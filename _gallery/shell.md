@@ -1,7 +1,7 @@
 ---
 author: fsofronia
 title: Shells-Linux
-image_url: /images/shell.png
+image_url: /images/shell.jpg
 caption: 'The shell is the command interpretor in an operating system, it is a program that executes other programs. 
 It provides a computer user an interface to the Unix/GNU Linux system so that the user can run different commands or utilities/tools
 with some input data. Some of the top most used open source shells on Unix/GNU Linux: tcsh, bash, zsh, ksh, fish.'
