@@ -1,7 +1,7 @@
 ---
 author: fsofronia
 title: "Linus Torvalds"
-image_url: /images/Linus-Torvalds.jpg
+image_url: /images/Torvalds.jpg
 caption: "Ο Linus Benedict Torvalds είναι ο δημιουργός του πυρήνα των Linux αλλά και του Git προωθόντας ιδιαίτερα την έννοια και την λειτουργία του ανοικτού λογισμικού"
 categories:
   - biography
